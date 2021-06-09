@@ -1,14 +1,15 @@
 # Algorithm_01
 
-## Model 
-1
+## Model 1
 #### 1. Model : 1 
 <img width="921" alt="스크린샷 2021-06-09 오후 11 30 43" src="https://user-images.githubusercontent.com/55436953/121374258-b97b7100-c97a-11eb-8da1-64b5ae3e5502.png">
 
 #### 2. Training with Training loss 
 <img width="781" alt="스크린샷 2021-06-09 오후 11 34 57" src="https://user-images.githubusercontent.com/55436953/121374983-5211f100-c97b-11eb-8b5b-737c16e51bf4.png">
+
 #### 3. Test Accuracy
 <img width="310" alt="스크린샷 2021-06-09 오후 11 35 18" src="https://user-images.githubusercontent.com/55436953/121375024-5d651c80-c97b-11eb-8284-eb85448fc95e.png">
+
 #### 4. Images and corresponding probability that predicted Right 
 <img width="696" alt="스크린샷 2021-06-09 오후 11 35 55" src="https://user-images.githubusercontent.com/55436953/121375127-7372dd00-c97b-11eb-8d98-9d83dcc85a0b.png">
 
@@ -23,6 +24,7 @@
 
 #### 2. Training with Training loss 
 <img width="794" alt="스크린샷 2021-06-09 오후 11 36 49" src="https://user-images.githubusercontent.com/55436953/121375258-91404200-c97b-11eb-8e25-d40e07272e52.png">
+
 #### 3. Test Accuracy
 <img width="306" alt="스크린샷 2021-06-09 오후 11 37 05" src="https://user-images.githubusercontent.com/55436953/121375314-9ac9aa00-c97b-11eb-9a00-24e1570c7211.png">
 
